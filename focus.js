@@ -8,6 +8,8 @@
 // @grant        none
 // ==/UserScript==
 
+// 実行タイミング: document-end
+
 (function() {
 	'use strict';
 
