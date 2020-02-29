@@ -2,8 +2,8 @@
 // @name         FocusOnContentForm
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  MoneyForwardのページで最初に「内容」にフォーカスが合うようにしたスクリプト
+// @author       rumrais1n
 // @match        https://moneyforward.com/
 // @grant        none
 // ==/UserScript==
